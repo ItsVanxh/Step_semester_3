@@ -1,3 +1,4 @@
+package Week3.ClassProblems;
 public class Course {
     private String code;
     private String title;

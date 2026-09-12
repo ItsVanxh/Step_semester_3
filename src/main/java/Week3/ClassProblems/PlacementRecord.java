@@ -1,4 +1,4 @@
-
+package Week3.ClassProblems;
 class PlacementRecord {
     
     String studentName;
